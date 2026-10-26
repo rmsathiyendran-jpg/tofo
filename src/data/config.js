@@ -7,7 +7,7 @@ export const SITE_CONFIG = {
   salesEmail: "orders@tofoindia.com",
   phone: "+91 98765 43210",
   businessHours: "Monday – Saturday: 10:00 AM – 7:00 PM IST",
-  address: "Tofo India Pvt Ltd,GANESH NAGAR,, India",
+  address: "Tofo India Pvt Ltd,GANESH NAGAR,SIVIGIRIPATTI,PALANI, India",
   currencySymbol: "₹",
   freeShippingThreshold: 999,
   standardShippingFee: 99,
