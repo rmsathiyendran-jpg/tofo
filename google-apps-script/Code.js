@@ -240,7 +240,7 @@ function buildOrderEmailHtml(data) {
         "</div>" +
 
         "<div style='margin-top: 28px; padding-top: 18px; border-top: 1px solid #e2e8f0; font-size: 12px; color: #94a3b8; text-align: center;'>" +
-          "<p style='margin: 0;'>Tofo India Pvt Ltd • Tech Innovators Park, Outer Ring Road, Bengaluru, Karnataka</p>" +
+          "<p style='margin: 0;'>Tofo India • 140/1 Dr. Gopalan Street, Indra Nagar, Palani, Dist - Dindigul 624601</p>" +
         "</div>" +
       "</div>" +
     "</div>" +
